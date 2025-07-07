@@ -4,7 +4,7 @@
 **Sukanta-Basak/Sukant# 👋 Hello, I'm Sukanto Basak
 🎓 I'm a beginner learning Web Development and GitHub  
 💡 Currently exploring JavaScript and Frontend projects  
-📫 How to reach me: sukanto@email.com  
+📫 How to reach me: sukantabasak102@email.com  
 🌱 Fun fact: I love music and coding!
 a-Basak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
