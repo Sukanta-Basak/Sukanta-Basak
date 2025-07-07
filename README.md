@@ -1,7 +1,12 @@
 ## Hi there 👋
 
 <!--
-**Sukanta-Basak/Sukanta-Basak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Sukanta-Basak/Sukant# 👋 Hello, I'm Sukanto Basak
+🎓 I'm a beginner learning Web Development and GitHub  
+💡 Currently exploring JavaScript and Frontend projects  
+📫 How to reach me: sukanto@email.com  
+🌱 Fun fact: I love music and coding!
+a-Basak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
